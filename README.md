@@ -1,25 +1,6 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
 # ProjectSensei
+
+### About:
+Project Sensei is a software development projct management and collaboration tool built using ruby on rails and vueJS. This application can be used to create projects in teams, invite others to collaborate, break down assign and track progress on projects. 
+
+more info coming soon with later releases. 
